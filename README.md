@@ -1,9 +1,9 @@
 Lab Assignment 1
 
-// Description
+# Description
 This is a simple C program that checks whether a given integer is an even or odd number. The user inputs a number and the program states if the number is even or odd. 
 
-// How to compile the program
+# How to compile the program
 
 1. Open a terminal.
 2. Navigate to the folder where the source file (`lab1.c`) is located.
@@ -11,7 +11,7 @@ This is a simple C program that checks whether a given integer is an even or odd
    ```bash
    gcc -o lab1 lab1.c
 
-// How to run the program
+# How to run the program
 
 1. Run the executable by entering:
  ./lab1
@@ -19,3 +19,4 @@ This is a simple C program that checks whether a given integer is an even or odd
  2. The program will display whether the given number is even or odd.
 
  GitHub Repository
+ https://github.com/lesliemag/Lab1-
